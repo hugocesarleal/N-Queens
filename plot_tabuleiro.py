@@ -3,7 +3,7 @@ import matplotlib.pyplot as plt
 import matplotlib.image as mpimg
 
 def desenharTabuleiro(solucao, n):
-    caminhoImagem = os.path.join(os.path.dirname(os.path.abspath(__file__)), 'rainha.png')
+    caminhoImagem = os.path.join(os.path.dirname(os.path.abspath(__file__)), 'rainha.png')  
 
     fig, ax = plt.subplots()
 
