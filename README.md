@@ -2,7 +2,7 @@
 
 Este repositório contém uma implementação do problema das N-Rainhas utilizando o algoritmo de Busca Tabu. O código foi desenvolvido como parte de um trabalho para a disciplina de Inteligência Artificial.
 
-#Publicado em:
+# Publicado em:
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.14989033.svg)](https://doi.org/10.5281/zenodo.14989033)
 
 ## Descrição
