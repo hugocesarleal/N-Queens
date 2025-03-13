@@ -52,7 +52,7 @@ No bloco principal (`if __name__ == "__main__"`), o programa:
 
 1. Clone este repositório:
    ```bash
-   git clone https://github.com/hugocesarleal/N-Rainhas.git
+   git clone https://github.com/hugocesarleal/N-Queens.git
    cd N-Rainhas
    ```
 2. Certifique-se de que o arquivo `plotar_tabuleiro.py` está na mesma pasta que o arquivo `n_rainhas.py`.
